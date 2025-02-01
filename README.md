@@ -10,10 +10,6 @@ This project includes:
 - **Exercise for Mental Health** – Learn physical activities that boost mental well-being.
 - **Interactive Games** – Play fun games designed to improve your mood.
 
-### Project Presentation
-A presentation for the project is available here: [Project PPT](https://www.canva.com/design/DAFs2uhsJUQ/YMf5S08_j0o0-c98pwVLzw/edit?utm_content=DAFs2uhsJUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
 
 ## How to Use TheraBot
 The platform is designed for ease of use. Follow these steps to get started:
